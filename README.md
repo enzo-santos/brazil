@@ -7,7 +7,7 @@ disciplina de Algoritmos.
 
 ## Linguagens
 
-As linguagens abaixo estão listadas em ordem crescente de domínio pessoal.
+As linguagens abaixo estão listadas em ordem arbitrária.
 
 Com exceção do Pascal e do Prolog, todas as linguagens utilizam caracteres
 ASCII para desenhar a bandeira a partir do arquivo binário `flag`.
@@ -42,7 +42,6 @@ a bandeira, todas as linguagens mostram o seguinte desenho:
 
 **Número de linhas:** 100
 
-**Nível de domínio:** 2/5
 
 ### [Prolog](https://www.swi-prolog.org/download/stable)
 
@@ -54,7 +53,6 @@ a bandeira, todas as linguagens mostram o seguinte desenho:
   
 **Número de linhas:** 75
 
-**Nível de domínio:** 3/5
 
 ### [C++](https://gcc.gnu.org/install/download.html)
     
@@ -65,7 +63,6 @@ a bandeira, todas as linguagens mostram o seguinte desenho:
 
 **Número de linhas**: 46
 
-**Nível de domínio:** 3/5
     
 ### [C](https://gcc.gnu.org/install/download.html)
 
@@ -76,7 +73,6 @@ a bandeira, todas as linguagens mostram o seguinte desenho:
 
 **Número de linhas:** 45
 
-**Nivel de domínio:** 3/5
 
 ### [Dart](https://dart.dev/get-dart)
 
@@ -86,7 +82,6 @@ a bandeira, todas as linguagens mostram o seguinte desenho:
 
 **Número de linhas:** 41
 
-**Nivel de domínio:** 4/5
 
 ### [Java](https://www.java.com/pt-BR/download/ie_manual.jsp)
 
@@ -97,7 +92,6 @@ a bandeira, todas as linguagens mostram o seguinte desenho:
     
 **Número de linhas:** 47
 
-**Nível de domínio:** 5/5
 
 ### [Python 3](https://www.python.org/downloads/)
 
@@ -107,7 +101,6 @@ a bandeira, todas as linguagens mostram o seguinte desenho:
 
 **Número de linhas:** 28
 
-**Nível de domínio:** 5/5
 
 ### [Kotlin](https://kotlinlang.org/releases.html)
 
@@ -117,5 +110,3 @@ a bandeira, todas as linguagens mostram o seguinte desenho:
     java -jar brazil.jar
 
 **Número de linhas:** 43
-
-**Nível de domínio:** 5/5
